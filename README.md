@@ -1,2 +1,2 @@
-# iqs
+# IQS
 IQS
