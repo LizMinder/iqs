@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ShelterGrid()
+comment1.params=
+comment1.target=void\ reset()
+comment1.text=\n\ Clear\ out\ all\ of\ the\ people\ in\ the\ shelters.\n
+comment2.params=
+comment2.target=int\ getGridWidth()
+comment3.params=
+comment3.target=int\ getGridHeight()
+comment4.params=col\ row
+comment4.target=Shelter\ getShelterAt(int,\ int)
+comment4.text=\n\ Get\ a\ reference\ to\ a\ Shelter\ from\ it's\ position\ on\ the\ grid\ of\ shelters.\n\ \n\ @param\ col\ \ \ Requested\ column\n\ @param\ row\ \ \ Requested\ row\n\ \n\ @return\ \ The\ reference\ to\ the\ requested\ shelter.\n
+comment5.params=
+comment5.target=int\ getInfectedCount()
+comment6.params=
+comment6.target=int\ getInfestedCount()
+comment7.params=
+comment7.target=int\ getTotalOccupancy()
+numComments=8

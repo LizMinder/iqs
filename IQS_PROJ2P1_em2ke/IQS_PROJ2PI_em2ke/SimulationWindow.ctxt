@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SimulationWindow()
+comment1.params=whichButton
+comment1.target=void\ buttonClicked(javax.swing.JButton)
+comment2.params=
+comment2.target=void\ focusLost()
+comment3.params=whichSlider
+comment3.target=void\ sliderChanged(javax.swing.JSlider)
+comment4.params=whichField
+comment4.target=void\ textEntered(javax.swing.JTextField)
+comment5.params=
+comment5.target=void\ simulationFinished()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

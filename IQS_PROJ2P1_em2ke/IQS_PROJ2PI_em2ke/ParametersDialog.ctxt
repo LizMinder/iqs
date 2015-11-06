@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ParametersDialog()
+comment1.params=event
+comment1.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=message
+comment3.target=void\ error(java.lang.String)
+numComments=4

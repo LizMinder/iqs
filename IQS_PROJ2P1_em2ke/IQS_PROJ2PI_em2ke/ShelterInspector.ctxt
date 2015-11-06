@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s\ time\ id
+comment0.target=ShelterInspector(Shelter,\ double,\ java.lang.String)
+comment1.params=
+comment1.target=void\ buttonClicked()
+comment2.params=menu
+comment2.target=void\ menuItemSelected(javax.swing.JComboBox)
+numComments=3

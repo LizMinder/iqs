@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=agents\ time
+comment0.target=TimeSeriesDialog(int,\ int)
+comment1.params=whichButton
+comment1.target=void\ buttonClicked(javax.swing.JButton)
+comment2.params=
+comment2.target=void\ saveCounts()
+comment3.params=
+comment3.target=void\ loadCounts()
+comment4.params=infected\ uninfected\ infested\ uninfested\ treated
+comment4.target=void\ updateCounts(int,\ int,\ int,\ int,\ int)
+comment5.params=g
+comment5.target=void\ paintComponent(java.awt.Graphics)
+comment6.params=graphics
+comment6.target=void\ drawTimeSeries(java.awt.Graphics2D)
+comment7.params=graphics
+comment7.target=void\ drawAxes(java.awt.Graphics2D)
+comment8.params=graphics
+comment8.target=void\ drawLegend(java.awt.Graphics2D)
+numComments=9
