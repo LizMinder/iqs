@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=h\ time\ id
+comment0.target=HostInspector(Host,\ double,\ java.lang.String)
+comment1.params=menu
+comment1.target=void\ menuItemSelected(javax.swing.JComboBox)
+numComments=2
